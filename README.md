@@ -19,3 +19,6 @@
 # Autores:
 - Fábio Silva de Lima
 - Luís Otávio Miranda
+
+---
+Focado em ingressar no ITA - Instituto Tecnológico de Aeronáutica.*
